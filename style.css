@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Press+Start+2P&display=swap');
+  H1{text-align:center;
+     font-size:xx-large;
+     font-family: 'Press Start 2P', cursive;
+     background-color: black;
+     border-radius: 20px;
+      color:white;} 
+
+     a{color:black}
+     em{color:#168314d6}
+    body{background-image:url(images/BG.jpg);
+         background-size: cover;}
+    H2{background:linear-gradient(to right, blue,white);
+       border-top-left-radius: 10px;
+       border-bottom-right-radius: 10px;
+       border-radius: 20px 0 20px 0;}
+       ol,p{background:rgba(255, 255, 255, 0.5);} /* Cette commande sert a rendre le fond transparent */
+      
+       li{list-style:none ;
+         height: 150px;
+         width: 150px;
+         margin: 10px;
+         border:solid 2px green;
+         display:flex;
+          justify-content: center;
+          align-items: center;}
+
+          div{
+            border:solid 5px green;
+            padding:10px;
+            border-radius: 10px;
+            margin-top: 20px;}
+
+            ol{padding: 0;
+                display:flex;
+                justify-content: space-around;}
+
+                ul{padding:0;
+                   display:flex;
+                   justify-content: space-around;}
+       
+   
+
+    
